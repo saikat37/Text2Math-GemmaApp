@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyCharm
+.idea/
+
+# Logs and other files
+*.log
+*.sqlite3
+*.db
+.DS_Store
+*.egg-info/
+dist/
+build/
